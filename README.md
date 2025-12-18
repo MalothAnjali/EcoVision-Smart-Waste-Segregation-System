@@ -118,6 +118,4 @@ Once backend is running, visit:
 
 
 
-## 👥 Authors
 
-Your Name - Ecovision Team
