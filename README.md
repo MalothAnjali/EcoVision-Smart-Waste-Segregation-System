@@ -76,6 +76,7 @@ Frontend runs on: `http://localhost:5173`
 
 ## 📊 Dataset
 
+Dataset="waste classification dataset" from kaggle
 The dataset contains 4 categories:
 - **Recyclable**: Plastic bottles, cans, paper, etc.
 - **Non-recyclable**: Mixed waste, contaminated items
