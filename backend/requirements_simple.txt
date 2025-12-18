@@ -1,0 +1,29 @@
+# Simple requirements - Install packages one by one for better compatibility
+
+# Core packages first
+numpy
+tensorflow
+opencv-python
+Pillow
+
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data processing
+scikit-learn
+pandas
+
+# Utils
+python-dotenv
+pydantic
+pydantic-settings
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# Augmentation
+albumentations

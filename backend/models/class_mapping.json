@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "Recyclable",
+    "Non-Recyclable",
+    "Hazardous",
+    "Organic"
+  ],
+  "class_indices": {
+    "Hazardous": 0,
+    "Non-Recyclable": 1,
+    "Organic": 2,
+    "Recyclable": 3
+  },
+  "num_classes": 4,
+  "input_size": 224,
+  "training_date": "2025-11-22T22:26:27.447000"
+}

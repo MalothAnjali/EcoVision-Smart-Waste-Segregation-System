@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "Recyclable",
+    "Non-Recyclable",
+    "Hazardous",
+    "Organic"
+  ],
+  "class_indices": {
+    "Hazardous": 0,
+    "Non-Recyclable": 1,
+    "Organic": 2,
+    "Recyclable": 3
+  },
+  "num_classes": 4,
+  "input_size": 224,
+  "model_version": "v2_optimized",
+  "training_date": "2025-11-23T00:51:33.369082",
+  "final_accuracy": 0.6273148059844971,
+  "final_precision": 0.6747967600822449,
+  "final_recall": 0.5763888955116272,
+  "f1_score": 0.621722855436698,
+  "epochs_trained": 50,
+  "batch_size": 16
+}
